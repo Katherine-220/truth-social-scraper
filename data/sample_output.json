@@ -1,0 +1,31 @@
+[
+  {
+    "id": "profile-realDonaldTrump",
+    "username": "realDonaldTrump",
+    "display_name": "Donald J. Trump",
+    "followers_count": 8333700,
+    "following_count": 42,
+    "statuses_count": 24235,
+    "avatar": "https://static-assets-1.truthsocial.com/avatars/realDonaldTrump.jpg",
+    "header": "https://static-assets-1.truthsocial.com/headers/realDonaldTrump.jpg",
+    "url": "https://truthsocial.com/@realDonaldTrump",
+    "posts": [
+      {
+        "id": "113630398498616296",
+        "created_at": "2024-12-10T20:24:41.778Z",
+        "url": "https://truthsocial.com/@realDonaldTrump/113630398498616296",
+        "content": "<p></p>",
+        "replies_count": 621,
+        "reblogs_count": 2058,
+        "favourites_count": 6870,
+        "media_attachments": [
+          {
+            "id": "113630398455177561",
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/.../original/f9807ef7bcf8dd10.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
